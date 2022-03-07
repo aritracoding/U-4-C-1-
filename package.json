@@ -1,0 +1,23 @@
+{
+  "name": "u-4-c-1-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aritracoding/U-4-C-1-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aritracoding/U-4-C-1-/issues"
+  },
+  "homepage": "https://github.com/aritracoding/U-4-C-1-#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
